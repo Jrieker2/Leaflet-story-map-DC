@@ -21,7 +21,7 @@ To geocode (find latitude and longitude coordinates), we recommend installing th
 #### To finalize your map, you need to either:
 - Download each Google Sheets tab as a CSV file and upload into a `csv` subfolder in your GitHub repo
   - OR
-- Get your own Google Sheets API Key to insert into `google-doc-url.js`
+- Get your own Google Sheets API Key to insert into `[google-doc-.js](https://docs.google.com/spreadsheets/d/1Va8eSkRlPNZA3pFohrgTR-Lmoay9R2eU1LOz3ppitXY/edit#gid=0)`
 
 See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
 
